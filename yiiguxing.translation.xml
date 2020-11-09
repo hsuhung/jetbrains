@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="14" />
       <item value="Creates a Redux store that holds the state tree.  * The only way to change the data in the store is to call `dispatch()` on it.  *  * There should only be a single store in your app. To specify how different  * parts of the state tree respond to actions, you may combine several reducers  * into a single reducer function by using `combineReducers`.  *  * @param {Function} reducer A function that returns the next state tree, given  * the current state tree and the action to handle.  *  * @param {any} [preloadedState] The initial state. You may optionally specify it  * to hydrate the state from the server in universal apps, or to restore a  * previously serialized user session.  * If you use `combineReducers` to produce the root reducer function, this must be  * an object with the same shape as `combineReducers` keys.  *  * @param {Function} [enhancer] The store enhancer. You may optionally specify it  * to enhance the store with third-party capabilities such as middleware,  * time travel, persistence, etc. The only store enhancer that ships with Redux  * is `applyMiddleware()`.  *  * @returns {Store} A Redux store that lets you read the state, dispatch actions  * and subscribe to changes." />
       <item value="These are private action types reserved by Redux.  * For any unknown actions, you must return the current state.  * If the current state is undefined, you must return the initial state.  * Do not reference these action types directly in your code." />
       <item value="This is a dummy function to check if the function name has been altered by minification. * If the function has been minified and NODE_ENV !== 'production', warn the user." />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+      </map>
+    </option>
   </component>
 </application>
