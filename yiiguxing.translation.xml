@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=" ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client" />
       <item value="app crashed - waiting for file changes before starting" />
       <item value="商讯" />
       <item value="修改" />
