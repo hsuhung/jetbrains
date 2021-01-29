@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="除以" />
+      <item value="乘" />
       <item value="可用" />
       <item value=" '$utils' is declared but its value is never read." />
       <item value="SyntaxError: Unexpected identifier" />
