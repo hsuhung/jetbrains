@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unPermission" />
+      <item value="没有权限" />
+      <item value="权限" />
+      <item value="General apiDoc documentation blocks and old history blocks." />
+      <item value="Authentication" />
+      <item value="认证失败" />
+      <item value="credentials" />
+      <item value="Unauthorized" />
       <item value="parameter verification failed" />
       <item value="参数校验不通过" />
       <item value="占位" />
@@ -28,8 +36,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
