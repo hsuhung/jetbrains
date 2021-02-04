@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="身份证证明" />
+      <item value="身份证" />
+      <item value="身份证号码" />
+      <item value="无效参数" />
       <item value="unPermission" />
       <item value="没有权限" />
       <item value="权限" />
@@ -37,7 +41,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
