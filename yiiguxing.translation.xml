@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="未定义" />
       <item value="boundary" />
       <item value="Mismatch" />
       <item value="不匹配" />
@@ -51,7 +52,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
