@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="关联" />
       <item value="insert into table (id, name) values (123, 晚饭了)" />
       <item value="condition" />
       <item value="是否接入" />
@@ -50,12 +51,11 @@
       <item value="app crashed - waiting for file changes before starting" />
       <item value="商讯" />
       <item value="修改" />
-      <item value="秒" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
