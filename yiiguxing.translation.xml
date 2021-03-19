@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="认证" />
       <item value="关联" />
       <item value="insert into table (id, name) values (123, 晚饭了)" />
       <item value="condition" />
@@ -9,7 +10,6 @@
       <item value="拼接" />
       <item value="授权" />
       <item value="搜全" />
-      <item value="认证" />
       <item value="未定义" />
       <item value="boundary" />
       <item value="Mismatch" />
